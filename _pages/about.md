@@ -17,7 +17,7 @@ I’m convinced that impactful research emerges through interdisciplinary collab
 
 
 
-## Research Highlights Now
+## 🔬 Research Highlights Now
 ### 1.Evo-Traders
 
 An open-source multi-agent AI trading system that simulates real trading desk collaboration, with specialized agents handling data analysis, strategy generation, and risk management. The system features continuous evolution through memory modules that retain experience and learn from live market interactions in real-time. Built on AgentScope framework with full reproducibility.
@@ -36,7 +36,7 @@ Introduces Risk-LLM framework that extracts high-frequency signals from economic
 Proposes Target-LLM method that extracts multidimensional information from economic news through well-designed zero-shot prompts for macro prediction. Combines strengths of topic modeling and sentiment lexicon approaches, significantly outperforming traditional methods in forecasting US GDP, inflation, and unemployment. Constructed impact strength indicators provide more timely and accurate nowcasting performance.
 
 -Submitted.
-## Education
+## 🎓 Education
 
 **Ph.D.**  
 *Academy of Mathematics and Systems Science, Chinese Academy of Sciences*  
@@ -45,7 +45,7 @@ Advisor: Prof. Yongmiao Hong
 **B.S. in Mathematics and Applied Mathematics** (2018-2022)  
 *University of Chinese Academy of Sciences*
 
-## Talks
+## 📑 Talks
 
 - The Inaugural AE² Conference Australasian Econometric Conference of the Association of Econometricians (AE²), 2025 (Sydney, Australia).
 - 45th International Symposium on Forecasting, 2025 (Beijing, China). 
@@ -53,10 +53,10 @@ Advisor: Prof. Yongmiao Hong
 - Western Forum on Quantitative Economics, 2025 (Lanzhou, China).
 
 
-## Selected Awards
+## 🏆 Selected Awards
 - Best Student Presentation Award of 45th ISF
 - Academic Scholarship, University of Chinese Academy of Sciences
 
-## Collaborators' Website
+## 🤝 Collaborators' Website {#collaborators-website}
 [ShiQi Ye](https://www.shiqi-ye.com/)
 
