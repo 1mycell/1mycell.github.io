@@ -55,7 +55,10 @@ Advisor: Prof. Yongmiao Hong
 
 ## 🏆 Selected Awards
 - Best Student Presentation Award of 45th ISF
-- Academic Scholarship, University of Chinese Academy of Sciences
+- Academic Scholarship, University of Chinese Academy of Sciences,2021
+- Academic Scholarship, University of Chinese Academy of Sciences,2020
+- Academic Scholarship, University of Chinese Academy of Sciences,2019
+
 
 ## 🤝 Collaborators' Website {#collaborators-website}
 [ShiQi Ye](https://www.shiqi-ye.com/)
