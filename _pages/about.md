@@ -20,8 +20,10 @@ I’m convinced that impactful research emerges through interdisciplinary collab
 ## 🔬 Research Highlights Now
 ### 1.Evo-Traders
 
-An open-source multi-agent AI trading system that simulates real trading desk collaboration, with specialized agents handling data analysis, strategy generation, and risk management. The system features continuous evolution through memory modules that retain experience and learn from live market interactions in real-time. Built on AgentScope framework with full reproducibility.
-
+An open-source multi-agent AI trading system that simulates real trading desk collaboration, with specialized agents handling data analysis, strategy generation, and risk management. The system features continuous evolution through memory modules that retain experience and learn from live market interactions in real-time. Built on ReMe and AgentScope framework with full reproducibility.
+- 🔗 **Online Demo:** [http://trading.evoagents.cn](http://trading.evoagents.cn)
+- 🧩 **Source Code:** [GitHub Repository](https://github.com/agentscope-ai/agentscope-samples/tree/main/evotraders)
+  
 ### 2.Price Limit Information and Stock Market Prediction in China: A New Perspective Through Image Recognition
 
 Proposes LCNN and PCNN methods that visualize China A-share price-limit information as images for prediction. Empirical results show models incorporating visualized price-limit data significantly outperform traditional factor models in both accuracy and portfolio returns. Validates the unique value of "visualizing" institutional information for quantitative prediction.
