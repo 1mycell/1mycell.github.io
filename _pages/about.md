@@ -25,7 +25,6 @@ An open-source multi-agent AI trading system that simulates real trading desk co
 - **Online Demo:** [http://trading.evoagents.cn](http://trading.evoagents.cn)
 - **Source Code:** [GitHub Repository](https://github.com/agentscope-ai/agentscope-samples/tree/main/evotraders)
 
-![Evo-Traders Demo](https://github.com/agentscope-ai/agentscope-samples/blob/6036268aff65ebb5ddeb978f80c1f48dee7fce81/evotraders/docs/assets/evotraders_demo.gif)
 
 ### 2.Price Limit Information and Stock Market Prediction in China: A New Perspective Through Image Recognition
 
