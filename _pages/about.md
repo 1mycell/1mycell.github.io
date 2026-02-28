@@ -28,6 +28,7 @@ An open-source multi-agent AI trading system that simulates real trading desk co
 - **AgentScope Samples:** [https://mp.weixin.qq.com/s/9MapD3Hs_f9W7AlDkZGCKA](https://mp.weixin.qq.com/s/9MapD3Hs_f9W7AlDkZGCKA)
 
 - Submitted to **ACM SIGKDD 2026**.
+
 ### 2.Price Limit Information and Stock Market Prediction in China: A New Perspective Through Image Recognition
 
 Proposes LCNN and PCNN methods that visualize China A-share price-limit information as images for prediction. Empirical results show models incorporating visualized price-limit data significantly outperform traditional factor models in both accuracy and portfolio returns. Validates the unique value of "visualizing" institutional information for quantitative prediction.
@@ -44,6 +45,7 @@ Proposes Target-LLM method that extracts multidimensional information from econo
 
 - Submitted to _**International Journal of Forecasting**_,预测类国际顶尖期刊，JCRQ1.
 - Best Student Presentation Award of 45th International Symposium on Forecasting（ISF, 2025）
+
 ## 🎓 Education
 
 **Ph.D.**  
