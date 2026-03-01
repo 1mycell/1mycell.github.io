@@ -27,13 +27,12 @@ An open-source multi-agent AI trading system that simulates real trading desk co
 - **Bilibili Video:** [https://www.bilibili.com/video/BV1p4BYBtE5Z/](https://www.bilibili.com/video/BV1p4BYBtE5Z/)
 - **AgentScope Samples:** [https://mp.weixin.qq.com/s/9MapD3Hs_f9W7AlDkZGCKA](https://mp.weixin.qq.com/s/9MapD3Hs_f9W7AlDkZGCKA)
 
-- Submitted to **ACM SIGKDD 2026**.
 
 ### 2.Price Limit Information and Stock Market Prediction in China: A New Perspective Through Image Recognition
 
 Proposes LCNN and PCNN methods that visualize China A-share price-limit information as images for prediction. Empirical results show models incorporating visualized price-limit data significantly outperform traditional factor models in both accuracy and portfolio returns. Validates the unique value of "visualizing" institutional information for quantitative prediction.
 
--《管理科学学报》（_**Journal of Management Sciences in China**_，录用待刊;管理科学A级，FMS高质量T1 期刊，北大核心，CSSCI）.
+-《管理科学学报》 录用待刊（_**Journal of Management Sciences in China**_ ;管理科学A级，FMS高质量T1 期刊，北大核心，CSSCI）.
 
 ### 3.Nowcasting and Decomposing Macroeconomic Risk via Business News and Large Language Model
 
@@ -42,9 +41,9 @@ Introduces Risk-LLM framework that extracts high-frequency signals from economic
 ### 4.When Large Language Model Meets Economic News: Advancing Narrative-Driven Macroeconomic Forecasting and Nowcasting
 
 Proposes Target-LLM method that extracts multidimensional information from economic news through well-designed zero-shot prompts for macro prediction. Combines strengths of topic modeling and sentiment lexicon approaches, significantly outperforming traditional methods in forecasting US GDP, inflation, and unemployment. Constructed impact strength indicators provide more timely and accurate nowcasting performance.
-
-- Submitted to _**International Journal of Forecasting**_,预测类国际顶尖期刊，JCRQ1.
 - Best Student Presentation Award of 45th International Symposium on Forecasting（ISF, 2025）
+- Submitted to _**International Journal of Forecasting**_,预测类国际顶尖期刊，JCRQ1.
+
 
 ## 🎓 Education
 
