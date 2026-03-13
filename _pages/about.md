@@ -41,7 +41,7 @@ Introduces Risk-LLM framework that extracts high-frequency signals from economic
 ### 4.When Large Language Model Meets Economic News: Advancing Narrative-Driven Macroeconomic Forecasting and Nowcasting
 
 Proposes Target-LLM method that extracts multidimensional information from economic news through well-designed zero-shot prompts for macro prediction. Combines strengths of topic modeling and sentiment lexicon approaches, significantly outperforming traditional methods in forecasting US GDP, inflation, and unemployment. Constructed impact strength indicators provide more timely and accurate nowcasting performance.
-- Best Student Presentation Award of 45th International Symposium on Forecasting（ISF, 2025）
+- **Best Student Presentation Award** of 45th International Symposium on Forecasting（ISF, 2025）
 - Submitted to _**International Journal of Forecasting**_,预测类国际顶尖期刊，JCRQ1.
 
 
