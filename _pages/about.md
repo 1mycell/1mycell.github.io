@@ -69,8 +69,5 @@ Advisor: Prof. Yongmiao Hong
 - Academic Scholarship, University of Chinese Academy of Sciences,2019
 
 
-## 🤝 Collaborators' Website {#collaborators-website}
-[ShiQi Ye](https://www.shiqi-ye.com/)
-
 <a href="https://info.flagcounter.com/ebVj"><img src="https://s01.flagcounter.com/count/ebVj/bg_FFFFFF/txt_000000/border_CCCCCC/columns_2/maxflags_18/viewers_0/labels_0/pageviews_0/flags_0/percent_0/" alt="Flag Counter" border="0"></a>
 
