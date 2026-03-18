@@ -19,9 +19,9 @@ I’m convinced that impactful research emerges through interdisciplinary collab
 
 ### 1.Price Limit Information and Stock Market Prediction in China: A New Perspective Through Image Recognition (涨跌停信息与中国股市预测：图像识别的新视角)
 
-Proposes LCNN and PCNN methods that visualize China A-share price-limit information as images for prediction. Empirical results show models incorporating visualized price-limit data significantly outperform traditional factor models in both accuracy and portfolio returns. Validates the unique value of "visualizing" institutional information for quantitative prediction.
-
+<div style="font-size: 0.9em; line-height: 1.6; color: #555;">
 涨跌停制度作为中国A股市场的特色交易制度，对市场价格发现与投资者行为有着重要影响。为探索并利用这一信息，本文从市场情绪放大与价格反转效应两大理论机制出发，运用图像识别技术，基于2010年以来5353家A股成交量、价格及涨跌停收盘状态数据绘制趋势图，创新性地提出涨跌停状态线卷积神经网络(Line Convolutional Neural Network, LCNN)和涨跌停提示点卷积神经网络(Point Convolutional Neural Network, PCNN)两类方法。实证结果表明，相较于传统因子模型和结构化数据方法，融入涨跌停图像信息的模型在预测精度与投资组合收益方面具有显著优势，且优势在市场非理性程度较高（如高换手率、高波动率）的股票中优势更为突出。研究不仅验证了将关键市场制度信息“可视化”并用于量化预测的独特价值，也为中国特色市场机制下的涨跌停、融券制度优化提供了经验证据。研究结果有益于支持促进我国资本市场公平性和定价效率提升，进而推进中国金融市场长期高质量发展。
+</div>
 
 -《管理科学学报》 录用待刊（_**Journal of Management Sciences in China**_ ;管理科学A级，FMS高质量T1 期刊，北大核心，CSSCI）.
 
@@ -63,7 +63,7 @@ Advisor: [Prof. Yongmiao Hong](https://people.ucas.edu.cn/~ymhong?language=en)
 
 ## 🏆 Selected Awards
 - **Best Student Presentation Award** of 45th International Symposium on Forecasting（ISF）, 2025
-- Finalist, UBIQUANT Stock Trading Competition, UBIQUANT Quantitative Challenge Carnival, 2023
+- Finalist, UBIQUANT Stock Trading Competition, UBIQUANT Quant Challenge Carnival, 2023
 - Academic Scholarship, University of Chinese Academy of Sciences (UCAS),2021
 - Academic Scholarship, University of Chinese Academy of Sciences (UCAS),2020
 - Academic Scholarship, University of Chinese Academy of Sciences (UCAS),2019
