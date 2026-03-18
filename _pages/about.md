@@ -48,6 +48,7 @@ Introduces Risk-LLM framework that extracts high-frequency signals from economic
 
 **Ph.D.**  (2022-2027)  
 [*Academy of Mathematics and Systems Science, Chinese Academy of Sciences*](http://amss.cas.cn)
+
 Advisor: [Prof. Yongmiao Hong](https://people.ucas.edu.cn/~ymhong?language=en)
 
 **B.S. in Mathematics and Applied Mathematics** (2018-2022)  
