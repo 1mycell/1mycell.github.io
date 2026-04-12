@@ -27,7 +27,7 @@ Focusing on asset pricing, trading strategies, and market microstructure analysi
 
 
 ### 2.EvoTraders: An Evolutionary Multi-Agent System for Financial Trading
-[🌐 Online Demo](http://trading.evoagents.c) · [💻 Code](https://github.com/agentscope-ai/agentscope-samples/tree/main/evotraders) · [📹 Video](https://www.bilibili.com/video/BV1p4BYBtE5Z/) · [AgentScope Sample](https://mp.weixin.qq.com/s/9MapD3Hs_f9W7AlDkZGCKA)
+[🌐 Online Demo](http://trading.evoagents.c) · [💻 Code](https://github.com/agentscope-ai/agentscope-samples/tree/main/evotraders) 
 
 <div style="font-size: 0.70em; line-height: 1.6; color: #555;">
 EvoTraders is a multi-agent trading framework in which specialized analysts generate complementary signals, deliberate collectively, and adapt through performance-based updates and reflection-driven memory. Across seven real-world stock datasets, it consistently outperforms strong rule-based, reinforcement learning, and LLM-based baselines, achieving 24.15% annual return, 2.67 Sharpe ratio, and the lowest maximum drawdown.
@@ -42,7 +42,6 @@ Focusing on news-driven narrative analysis, nowcasting, and systemic risk measur
 
 ### 3.When Large Language Model Meets Economic News: Advancing Narrative-Driven Macroeconomic Forecasting and Nowcasting
 - **Best Student Presentation Award** of 45th International Symposium on Forecasting（ISF, 2025）.
-- Submitted to _**International Journal of Forecasting**_,预测类国际顶尖期刊，JCRQ1.
 <div style="font-size: 0.70em; line-height: 1.6; color: #555;">
 Proposes Target-LLM method that extracts multidimensional information from economic news through well-designed zero-shot prompts for macro prediction. Combines strengths of topic modeling and sentiment lexicon approaches, significantly outperforming traditional methods in forecasting US GDP, inflation, and unemployment. Constructed impact strength indicators provide more timely and accurate nowcasting performance.
 </div>
