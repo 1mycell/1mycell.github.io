@@ -13,24 +13,39 @@ var $hlinks = $('#site-nav .hidden-links');
 
 var breaks = [];
 
+function getAvailableSpace() {
+  return $btn.hasClass('hidden') ? $nav.width() : $nav.width() - $btn.width() - 30;
+}
+
+function getVisibleLinksWidth() {
+  var width = 0;
+  $vlinks.children().each(function () {
+    width += Math.ceil($(this).outerWidth(true));
+  });
+  return width;
+}
+
 function updateNav() {
 
-  var availableSpace = $btn.hasClass('hidden') ? $nav.width() : $nav.width() - $btn.width() - 30;
+  var availableSpace = getAvailableSpace();
+  var visibleLinksWidth = getVisibleLinksWidth();
 
   // The visible list is overflowing the nav
-  if ($vlinks.width() > availableSpace) {
+  if (visibleLinksWidth > availableSpace) {
 
-    while ($vlinks.width() > availableSpace && $vlinks.children("*:not(.persist)").length > 0) {
+    while (visibleLinksWidth > availableSpace && $vlinks.children("*:not(.persist)").length > 0) {
       // Record the width of the list
-      breaks.push($vlinks.width());
+      breaks.push(visibleLinksWidth);
 
       // Move item to the hidden list
       $vlinks.children("*:not(.persist)").last().prependTo($hlinks);
 
-      availableSpace = $btn.hasClass("hidden") ? $nav.width() : $nav.width() - $btn.width() - 30;
+      availableSpace = getAvailableSpace();
+      visibleLinksWidth = getVisibleLinksWidth();
 
       // Show the dropdown btn
       $btn.removeClass("hidden");
+      availableSpace = getAvailableSpace();
     }
 
     // The visible list is not overflowing
@@ -74,7 +89,12 @@ function updateNav() {
 $(window).on('resize', function () {
   updateNav();
 });
-screen.orientation.addEventListener("change", function () {
+if (screen.orientation && screen.orientation.addEventListener) {
+  screen.orientation.addEventListener("change", function () {
+    updateNav();
+  });
+}
+$(window).on('orientationchange', function () {
   updateNav();
 });
 
