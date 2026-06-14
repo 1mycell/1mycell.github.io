@@ -9,7 +9,7 @@ redirect_from:
 
 <section class="home-hero" markdown="1">
 <div class="home-hero__inner" markdown="1">
-<p class="home-kicker">AI, Finance, and Economics</p>
+<p class="home-kicker">AI and LLMs for Finance and Economics</p>
 
 # Yue Wu
 
@@ -40,7 +40,7 @@ I am always open to collaborations on related topics.
 
 ### Price Limit Information and Stock Market Prediction in China: A New Perspective Through Image Recognition (涨跌停信息与中国股市预测：图像识别的新视角)
 
-<p class="publication-status">《管理科学学报》已录用，forthcoming (Journal of Management Sciences in China; 管理科学A级; FMS T1).</p>
+<p class="publication-status">《管理科学学报》，forthcoming (Journal of Management Sciences in China; 管理科学A级; FMS T1).</p>
 </article>
 
 <article class="research-card" markdown="1">
@@ -56,7 +56,7 @@ I am always open to collaborations on related topics.
 
 ### When Large Language Model Meets Economic News: Advancing Narrative-Driven Macroeconomic Forecasting and Nowcasting
 
-<p class="publication-status">ISF 2025 Best Student Presentation Award.</p>
+<p class="publication-status publication-status--award">ISF 2025 <span class="publication-status__label">Best Student Presentation Award</span>.</p>
 </article>
 
 <article class="research-card" markdown="1">
@@ -65,6 +65,7 @@ I am always open to collaborations on related topics.
 ### Nowcasting and Decomposing Macroeconomic Risk via Business News and Large Language Model
 
 <p class="publication-status">AE² Conference, 2025 (Sydney, Australia).</p>
+<p class="publication-status publication-status--award"><span class="publication-status__label">Featured Paper</span>, 2026 China Annual Conference, Chinese Economic Association (CEA) UK/Europe (全英/全欧中国经济学会2026年中国学术年会).</p>
 </article>
 </div>
 </div>
@@ -86,6 +87,7 @@ I am always open to collaborations on related topics.
 <div class="utility-panel" markdown="1">
 ## Talks
 
+- 2026 China Annual Conference, Chinese Economic Association (CEA) UK/Europe, 2026.
 - The Inaugural AE² Conference Australasian Econometric Conference of the Association of Econometricians (AE²), 2025 (Sydney, Australia).
 - 45th International Symposium on Forecasting, 2025 (Beijing, China).
 - Symposium on the Development of Economic Statistics in the New Era, 2025 (Xiamen, China).
@@ -103,6 +105,7 @@ I am always open to collaborations on related topics.
 
 <ul class="awards-list">
   <li><strong>National Champion</strong>, 2026 UBIQUANT Challenge AI Inference Challenge, UBIQUANT Investment, 2026</li>
+  <li><strong>Featured Paper</strong>, 2026 China Annual Conference, Chinese Economic Association (CEA) UK/Europe, 2026</li>
   <li><strong>Best Student Presentation Award</strong> of 45th International Symposium on Forecasting (ISF), 2025</li>
   <li>Finalist, UBIQUANT Stock Trading Competition, UBIQUANT Quant Challenge Carnival, 2023</li>
   <li>Academic Scholarship, University of Chinese Academy of Sciences (UCAS), 2021</li>
