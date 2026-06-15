@@ -65,7 +65,7 @@ I am always open to collaborations on related topics.
 ### Nowcasting and Decomposing Macroeconomic Risk via Business News and Large Language Model
 
 <p class="publication-status">AE² Conference, 2025 (Sydney, Australia).</p>
-<p class="publication-status publication-status--award"><span class="publication-status__label">Featured Paper</span>, 2026 China Annual Conference, Chinese Economic Association (CEA) UK/Europe (全英/全欧中国经济学会2026年中国学术年会).</p>
+<p class="publication-status publication-status--award"><span class="publication-status__label">Outstanding Paper</span>, 2026 China Annual Conference, Chinese Economic Association (CEA) UK/Europe (全英/全欧中国经济学会2026年中国学术年会).</p>
 </article>
 </div>
 </div>
@@ -105,7 +105,7 @@ I am always open to collaborations on related topics.
 
 <ul class="awards-list">
   <li><strong>National Champion</strong>, 2026 UBIQUANT Challenge AI Inference Challenge, UBIQUANT Investment, 2026</li>
-  <li><strong>Featured Paper</strong>, 2026 China Annual Conference, Chinese Economic Association (CEA) UK/Europe, 2026</li>
+  <li><strong>Outstanding Paper</strong>, 2026 China Annual Conference, Chinese Economic Association (CEA) UK/Europe, 2026</li>
   <li><strong>Best Student Presentation Award</strong> of 45th International Symposium on Forecasting (ISF), 2025</li>
   <li>Finalist, UBIQUANT Stock Trading Competition, UBIQUANT Quant Challenge Carnival, 2023</li>
   <li>Academic Scholarship, University of Chinese Academy of Sciences (UCAS), 2021</li>
