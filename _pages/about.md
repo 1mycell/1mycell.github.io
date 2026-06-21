@@ -111,6 +111,7 @@ I am always open to collaborations on related topics.
   <li>Academic Scholarship, University of Chinese Academy of Sciences (UCAS), 2021</li>
   <li>Academic Scholarship, University of Chinese Academy of Sciences (UCAS), 2020</li>
   <li>Academic Scholarship, University of Chinese Academy of Sciences (UCAS), 2019</li>
+  <li>Merit Student, Academy of Mathematics and Systems Science (AMSS), Chinese Academy of Sciences, 2026</li>
   <li>Merit Student, University of Chinese Academy of Sciences (UCAS), 2022</li>
   <li>Merit Student, University of Chinese Academy of Sciences (UCAS), 2020</li>
 </ul>
