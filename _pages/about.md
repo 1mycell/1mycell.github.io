@@ -32,7 +32,7 @@ I am always open to collaborations on related topics.
 
 ## AI-Driven Financial & Macroeconomic Intelligence
 
-<p class="section-note">All as First Author</p>
+<p class="section-note">All as First Author / Co-First Author</p>
 
 <div class="research-grid" markdown="1">
 <article class="research-card" markdown="1">
@@ -40,7 +40,27 @@ I am always open to collaborations on related topics.
 
 ### Price Limit Information and Stock Market Prediction in China: A New Perspective Through Image Recognition (涨跌停信息与中国股市预测：图像识别的新视角)
 
+<p class="publication-authors"><strong>Yue Wu</strong>, <a href="https://people.ucas.edu.cn/~sunyuying">Yuying Sun</a><sup title="Corresponding author">*</sup>, <a href="https://people.ucas.ac.cn/~ymhong">Yongmiao Hong</a>, <a href="https://people.ucas.ac.cn/~sywang">Shouyang Wang</a>.</p>
 <p class="publication-status">《管理科学学报》，forthcoming (Journal of Management Sciences in China; 管理科学A级; FMS T1).</p>
+</article>
+
+<article class="research-card" markdown="1">
+<p class="card-kicker">Macroeconomic Forecasting</p>
+
+### When Large Language Model Meets Economic News: Advancing Narrative-Driven Macroeconomic Forecasting and Nowcasting
+
+<p class="publication-authors"><a href="https://people.ucas.ac.cn/~ymhong">Yongmiao Hong</a>, <strong>Yue Wu</strong>, <a href="https://shiqi-ye.com/">Shiqi Ye</a><sup title="Corresponding author">*</sup>.</p>
+<p class="publication-status publication-status--award"><span class="publication-status__label">Best Student Presentation Award</span>, 45th International Symposium on Forecasting (ISF), 2025 (第45届国际预测大会，最佳学生报告奖).</p>
+</article>
+
+<article class="research-card" markdown="1">
+<p class="card-kicker">Macroeconomic Forecasting</p>
+
+### Nowcasting and Decomposing Macroeconomic Risk via Business News and Large Language Model
+
+<p class="publication-authors"><strong>Yue Wu</strong>, <a href="https://shiqi-ye.com/">Shiqi Ye</a><sup title="Corresponding author">*</sup>.</p>
+<p class="publication-status">AE² Conference, 2025 (Sydney, Australia).</p>
+<p class="publication-status publication-status--award"><span class="publication-status__label">Outstanding Paper</span>, 2026 China Annual Conference, Chinese Economic Association (CEA) UK/Europe (全英/全欧中国经济学会2026年中国学术年会).</p>
 </article>
 
 <article class="research-card" markdown="1">
@@ -49,23 +69,6 @@ I am always open to collaborations on related topics.
 ### EvoTraders: An Evolutionary Multi-Agent System for Financial Trading
 
 <p class="research-links"><a href="http://trading.evoagents.c">Online Demo</a><span>·</span><a href="https://github.com/agentscope-ai/agentscope-samples/tree/main/evotraders">Code</a></p>
-</article>
-
-<article class="research-card" markdown="1">
-<p class="card-kicker">Macroeconomic Forecasting</p>
-
-### When Large Language Model Meets Economic News: Advancing Narrative-Driven Macroeconomic Forecasting and Nowcasting
-
-<p class="publication-status publication-status--award">ISF 2025 <span class="publication-status__label">Best Student Presentation Award</span>.</p>
-</article>
-
-<article class="research-card" markdown="1">
-<p class="card-kicker">Macroeconomic Forecasting</p>
-
-### Nowcasting and Decomposing Macroeconomic Risk via Business News and Large Language Model
-
-<p class="publication-status">AE² Conference, 2025 (Sydney, Australia).</p>
-<p class="publication-status publication-status--award"><span class="publication-status__label">Outstanding Paper</span>, 2026 China Annual Conference, Chinese Economic Association (CEA) UK/Europe (全英/全欧中国经济学会2026年中国学术年会).</p>
 </article>
 </div>
 </div>

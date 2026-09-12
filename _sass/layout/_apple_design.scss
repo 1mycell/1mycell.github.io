@@ -790,6 +790,14 @@ td > code {
   line-height: 1.6;
 }
 
+.publication-authors {
+  margin-top: 10px;
+  color: var(--apple-card-summary);
+  font-size: 14px;
+  line-height: 1.6;
+  overflow-wrap: break-word;
+}
+
 .publication-status {
   margin-top: 10px;
   color: var(--apple-card-strong);
