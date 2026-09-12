@@ -15,7 +15,7 @@ redirect_from:
 
 <p class="home-lead">I study the intersection of AI, finance, and economics, with a particular focus on LLM Agent.</p>
 
-I'm a fourth year Ph.D. student from [Academy of Mathematics and Systems Science (AMSS)](http://english.amss.cas.cn), Chinese Academy of Sciences, advised by [Prof. Yongmiao Hong](https://people.ucas.edu.cn/~ymhong?language=en). I received my B.S. degree in Mathematics and Applied Mathematics from University of Chinese Academy of Sciences.
+I'm a final year Ph.D. student from [Academy of Mathematics and Systems Science (AMSS)](http://english.amss.cas.cn), Chinese Academy of Sciences, advised by [Prof. Yongmiao Hong](https://people.ucas.edu.cn/~ymhong?language=en). I received my B.S. degree in Mathematics and Applied Mathematics from University of Chinese Academy of Sciences.
 
 I am always open to collaborations on related topics.
 
@@ -50,7 +50,7 @@ I am always open to collaborations on related topics.
 ### When Large Language Model Meets Economic News: Advancing Narrative-Driven Macroeconomic Forecasting and Nowcasting
 
 <p class="publication-authors"><a href="https://people.ucas.ac.cn/~ymhong">Yongmiao Hong</a>, <strong>Yue Wu</strong>, <a href="https://shiqi-ye.com/">Shiqi Ye</a><sup title="Corresponding author">*</sup>.</p>
-<p class="publication-status publication-status--award"><span class="publication-status__label">Best Student Presentation Award</span>, 45th International Symposium on Forecasting (ISF), 2025 (第45届国际预测大会，最佳学生报告奖).</p>
+<p class="publication-status publication-status--award"><span class="publication-status__label">Best Student Presentation Award</span>, 45th International Symposium on Forecasting (ISF), 2025 (第45届国际预测大会).</p>
 </article>
 
 <article class="research-card" markdown="1">
